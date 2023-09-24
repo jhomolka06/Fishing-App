@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+
+
+
+.background1{
+    background-image: url(https://cdn.britannica.com/17/198017-050-41326024/Cattails-lake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background2 {
+  background-image: url('https://img.freepik.com/free-photo/fishing-tackle-fishing-spinning-fishing-line-hooks-lures-wooden-background_639032-1829.jpg?w=996&t=st=1695499562~exp=1695500162~hmac=9566d3052afb32aeb6d0f24a87ca61fc4e55dd874f693c3d0b6d1a57db6722ea');
+  background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.background3 {
+  background-image: url('https://img.freepik.com/premium-photo/set-fishing-lures-banner-wooden-light-background_294383-556.jpg?w=996');
+  background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.overit :hover{
+    transform: scale(2);
+}
+
+h1{
+    text-align: center;
+    filter: drop-shadow(7px 7px 7px);
+}
+
+
+
+img{
+    margin: 1rem;
+    border-radius: 1rem;
+    box-shadow: 20px 20px 20px 10px black;
+}
+
+div{
+    text-align: center;
+    background-color: rgb(20, 43, 14);
+    padding: 10px;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 20px 20px 10px rgba(10, 1, 1, 0.1);
+  }
+
+  .cow {
+    color: rgb(10, 10, 148);
+  }
+
+  .sheep {
+    color: #cc0404;
+  }
+
+  .gloock {
+    font-family: 'Gloock', serif;
+    font-size: 4rem;
+  }
+
+  .gloock2 {
+    font-family: 'Gloock', serif;
+    font-size: 2rem;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+
+  .outline {
+    color: black;
+	font-size: 60px;
+	-webkit-text-stroke: 1px black;
+	-webkit-text-fill-color: rgb(65, 219, 26);
+  }
+
+  .divide-links {
+    text-align: center;
+    background-color: rgb(228, 237, 226);
+    padding: 10px;
+  }
+
+  .divide-links2 {
+    text-align: center;
+    background-color: #555;
+  }
+
+  .divide-footer {
+    text-align: center;
+    background-color: #cc0404;
+  }
+
+  a {
+    color: aqua;
+  }
+  a:hover {
+    color: #cc0404;
+  }
+
+  ---------
+
+/* Global Styles */
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+input[type="submit"]:hover {
+    background-color: #555;
+}
+
+.font7{
+  font-family: 'Gloock', serif;
+}
+
+.font8{
+  font-family: 'Gloock', serif;
+}
+
