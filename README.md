@@ -18,7 +18,15 @@ Some of my favorite features about this project were the ability to make links f
 
 Code Snippets:
 
-
+<script>
+<form>
+        <h2 class="font7">Contact Us</h2>
+        <input type="text" name="firstName" placeholder="First Name">
+        <input type="text" name="lastName" placeholder="Last Name">
+        <input type="text" name="Email" placeholder="Email">
+        <input type="submit" value="Submit">
+    </form>
+</script>
 
 Installation & Usage Instructions:
 
