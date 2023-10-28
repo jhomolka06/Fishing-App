@@ -17,6 +17,7 @@ Favorite Features:
 Some of my favorite features about this project were the ability to make links for URL's and how I learned to style the features. Some of the challenges I faced where learning css.
 
 Code Snippets:
+https://github.com/jhomolka06/wk13project
 
 Installation & Usage Instructions:
 
