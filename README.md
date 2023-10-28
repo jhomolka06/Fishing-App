@@ -18,6 +18,14 @@ Some of my favorite features about this project were the ability to make links f
 
 Code Snippets:
 
+```
+ <h1 class="gloock outline">Fishing Techniques</h1>
+    <div style="border: 20px ridge black;">
+        <a href="fishinggear.html">FishingGear</a>
+        <a href="fishingtech.html">FishingTechniques</a>
+        <a href="contact.html">Contact Info</a>
+    </div>
+```
 
 Installation & Usage Instructions:
 
